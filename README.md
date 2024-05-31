@@ -112,7 +112,7 @@
 ![image](https://github.com/CSJ516/Optimal_location_selection/assets/103464891/f9fc41cd-54ba-46b6-b543-dbc281c5fe0c)
 
 
-**종속변수** - 【KEY_1】 고립은둔청년(1 : 해당, 2 : 미해당)
+**종속변수** - 【KEY_1】 고립은둔청년(1 : 해당, 0 : 미해당)
 
 <br>
 
