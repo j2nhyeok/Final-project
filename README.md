@@ -1,3 +1,5 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=210&color=EE82EE&text=final%20project&section=header&reversal=true&textBg=false&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&descAlign=50)
+
 # 목차
 1. [개요](#개요)
     - [프로젝트 기간](#프로젝트-기간)
@@ -73,23 +75,67 @@
 </br>
 
 # 개발 부분
+
+
 ### 개발 환경 
-- Programming Language : <영기님 자리>
-- Editor : <영기님 자리>
+
+
+### FE : 권오규
+|JavaScript|React|
+| :--: | :--: |
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> |
+
+### BE : 김영기
+|Python|Django|
+| :--: | :--: |
+| <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /> |
+
+### ERD
+<a href = 'https://www.erdcloud.com/d/RhcxMMpFrtyCJX7Qi'><img src="https://cdn-icons-png.flaticon.com/512/11629/11629055.png" width="120"/></a>
+
+### API 명세서
+<a href='https://documenter.getpostman.com/view/33871677/2sA3QwaUiu'>API 명세서</a>
+
+### 기술 블로그
+<a href='https://srilankakim66.tistory.com/91'>기술 블로그</a>
+
+### 사용한 데이터 베이스
+- 개발(로컬) : SQLite3
+- 서버 : MySQL
+
+### 배포
+- GCP(Google cloud plattform)을 이용한 배포
+
 ### 주요 라이브러리
 
 ```
-<영기님 자리>
-<영기님 자리>
-<영기님 자리>
-<영기님 자리>
+asgiref==3.8.1
+Django==5.0.6
+django-cors-headers==4.3.1
+django-phonenumber-field==7.3.0
+djangorestframework==3.15.1
+djangorestframework-simplejwt==5.3.1
+mysqlclient==2.2.4
+phonenumbers==8.13.36
+pillow==10.3.0
+PyJWT==2.8.0
+python-dotenv==1.0.1
+sqlparse==0.5.0
 ```
 
+# TOOLS
+
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" height="30"/>
+</div>
 
 <br>
 <br>
 
-### 주요 기능
+# 주요 기능
 ![image](https://github.com/j2nhyeok/Final-project/assets/103464891/4f3f9e8e-84f3-456d-8a46-5e8b414d7f62)
 ![image](https://github.com/j2nhyeok/Final-project/assets/103464891/98e65908-3de0-49b3-8c56-9455cb0448dd)
 ![image](https://github.com/j2nhyeok/Final-project/assets/103464891/9225e739-ea2e-4c75-8b93-3484b437c2c1)
